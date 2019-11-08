@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mygobook-src/chapter01/calcproj/simplemath"
+	"mygobook-src/chapter01/calcproj/src/simplemath"
 	"os"
 	"strconv"
 )
