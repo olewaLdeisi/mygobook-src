@@ -1,0 +1,4 @@
+login Tom 1 101
+login Jerry 2 321
+listplayer
+send Hello everybody.
